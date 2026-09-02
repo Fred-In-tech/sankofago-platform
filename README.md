@@ -2,9 +2,9 @@
 
 Ghana heritage travel for the diaspora. An AI plans it. A real person books it.
 
-[![Architecture map](banner.png)](https://foglamp.dev/scan/sankofago-platform-ciqald)
+[![Architecture map](banner.png)](https://fred-in-tech.github.io/architecture-maps/sankofago-platform/)
 
-*Interactive architecture map: [foglamp scan](https://foglamp.dev/scan/sankofago-platform-ciqald)*
+*Interactive, pannable version: [open the architecture map](https://fred-in-tech.github.io/architecture-maps/sankofago-platform/)*
 
 ## What it is
 
